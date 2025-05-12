@@ -1,0 +1,17 @@
+/.idea/
+
+/billing-service/.idea
+
+/billing-service/target
+
+/common-events/.idea
+
+/common-events/target
+
+/shopping/.idea
+
+/shopping/target
+
+/warehouse-service/.idea
+
+/warehouse-service/target
