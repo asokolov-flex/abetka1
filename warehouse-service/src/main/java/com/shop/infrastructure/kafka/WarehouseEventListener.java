@@ -1,7 +1,7 @@
 package com.shop.infrastructure.kafka;
 
 import com.shop.events.model.OrderCreatedEvent;
-import com.shop.services.WarehouseService;
+import com.shop.domain.services.WarehouseService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.kafka.annotation.KafkaListener;

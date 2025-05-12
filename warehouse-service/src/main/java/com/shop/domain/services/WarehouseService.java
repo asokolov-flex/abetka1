@@ -1,4 +1,4 @@
-package com.shop.services;
+package com.shop.domain.services;
 
 import com.shop.events.model.OrderCreatedEvent;
 import com.shop.events.model.OrderItem;
