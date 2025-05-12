@@ -8,9 +8,9 @@
 
 /common-events/target
 
-/shopping/.idea
+/shopping-service/.idea
 
-/shopping/target
+/shopping-service/target
 
 /warehouse-service/.idea
 
